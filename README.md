@@ -5,4 +5,8 @@ Esta plataforma utiliza credenciales para el acceso exclusivo de los vendedores
 
 ![Screenshot](Capturas/img1.png)
 
-![ScreenShot](https://raw.github.com/oavasquez/screenshotPaco/edit/master/Capturas/img1.png)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+
