@@ -9,9 +9,11 @@ Esta plataforma utiliza credenciales para el acceso exclusivo de los vendedores
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/oavasquez/screenshotPaco/blob/master/Capturas/img1.png/460/300">
-</p>
+
+
+<div align="center">
+    <img src="/Capturas/img1.png" width="400px"</img> 
+</div>
 
 
 
