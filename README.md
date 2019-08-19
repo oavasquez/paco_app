@@ -112,4 +112,21 @@ Complemamente offline | Si
 Plataforma Android | Si
 Impresion de documentos | Si
 Envio de Correo | si 
+Exportacion/importacion de Datos | si 
+
+
+## Permisos que requieren 
+
+
+Funcionalidades | Estado
+------------ | -------------
+Camara | Si
+Almacenamiento interno  | Si
+Geolcalizacion | Si
+
+
+<div align="center">
+    <img src="/Capturas/img2.png" width="200px"</img> 
+    
+</div>
 
