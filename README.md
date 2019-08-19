@@ -24,10 +24,30 @@ Para no depender de disponibilidad del internet todos los datos se descargan par
 
 ## Herramientas de apoyo para los vendedores
 
+#### Generales
 <div align="center">
     <img src="/Capturas/img6.png" width="200px"</img> 
      <img src="/Capturas/img8.png" width="200px"</img> 
      <img src="/Capturas/img9.png" width="200px"</img> 
+</div>
+
+#### Ubicacion del cliente
+
+
+<div align="center">
+    <img src="/Capturas/img32.png" width="200px"</img> 
+     <img src="/Capturas/img14.png" width="200px"</img> 
+    
+</div>
+
+#### Exportacion de la informacion
+
+
+<div align="center">
+    <img src="/Capturas/img35.png" width="200px"</img> 
+     <img src="/Capturas/img33.png" width="200px"</img> 
+     <img src="/Capturas/img34.png" width="200px"</img> 
+    
 </div>
 
 
