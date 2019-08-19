@@ -23,7 +23,7 @@ Para no depender de disponibilidad del internet todos los datos se descargan par
 ## Herramientas de apoyo para los vendedores
 
 <div align="center">
-    <img src="/Capturas/img7.png" width="200px"</img> 
+    <img src="/Capturas/img6.png" width="200px"</img> 
 </div>
 
 
@@ -32,5 +32,5 @@ Para no depender de disponibilidad del internet todos los datos se descargan par
 
 Funcionalidades | Estado
 ------------ | -------------
-Complemamente offline | - [x]
+Complemamente offline | [x]
 
