@@ -2,6 +2,7 @@
 Plataforma móvil para la comercialización de productos utiilizando Flutter y ASP.net
 
 
+
 ## Inicio de sesion
 Esta plataforma utiliza credenciales para el acceso exclusivo de los vendedores y ademas se puede configurar hacia el servidor que se desea dirigir las peticiones.
 
@@ -24,6 +25,8 @@ Para no depender de disponibilidad del internet todos los datos se descargan par
 
 <div align="center">
     <img src="/Capturas/img6.png" width="200px"</img> 
+     <img src="/Capturas/img8.png" width="200px"</img> 
+     <img src="/Capturas/img9.png" width="200px"</img> 
 </div>
 
 
@@ -32,5 +35,8 @@ Para no depender de disponibilidad del internet todos los datos se descargan par
 
 Funcionalidades | Estado
 ------------ | -------------
-Complemamente offline | [x]
+Complemamente offline | Si
+Plataforma Android | Si
+Impresion de documentos | Si
+Envio de Corre | si 
 
